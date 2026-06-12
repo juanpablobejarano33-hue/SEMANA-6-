@@ -1,0 +1,11 @@
+PREGUNTA 1: ¿Qué es JSON? 
+RESPUESTA: B.  Un formato de intercambio de datos usado entre aplicaciones. 
+
+PREGUNTA 2: ¿Qué permite express.json() en una aplicación Express? 
+RESPUESTA: B.  Leer datos enviados en formato JSON en una petición. 
+
+PREGUNTA 3: ¿Dónde se encuentran los datos enviados en una petición POST cuando usamos Express? 
+RESPUESTA:  B. req.body 
+
+PREGUNTA 4: ¿Cuál de las siguientes opciones representa correctamente un objeto JSON? 
+RESPUESTA: Respuesta: C. { "nombre": "Juan" } 

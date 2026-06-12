@@ -1,0 +1,8 @@
+Es importante porque los datos estructurados permiten automatizar, priorizar y dar seguimiento eficiente a los reportes ciudadanos,
+mientras que la información desordenada se pierde o genera desconfianza. Cuando un ciudadano reporta, 
+por ejemplo, una fuga de agua o un acto de inseguridad mediante un formulario con campos específicos (ubicación, tipo de problema, foto, fecha), 
+la plataforma puede validar, clasificar y enviar automáticamente el caso al área responsable, reduciendo tiempos de respuesta. 
+Además, la estructura facilita la trazabilidad, evita duplicidades, 
+permite generar estadísticas confiables para la toma de decisiones y asegura que ningún reporte quede ignorado. 
+En definitiva, **la estructura no es un capricho técnico, sino una condición para que la participación ciudadana sea efectiva, 
+medible y sostenible en el tiempo.
